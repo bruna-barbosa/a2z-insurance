@@ -1,1 +1,6 @@
 # A2Z Insurance
+Market segmentation is the process of identifying customers’ groups. It makes use of geographic, demographic, psychographic, and behavioural characteristics of customers. When the differences between the different segments are clear and understood, organizations can make better strategic choices about opportunities, product definition, positioning, promotions, pricing, and target marketing. 
+
+A2Z Insurance (A2Z) is a Portuguese long standing insurance company that serves a wide array of insurance services: Motor, Household, Health, Life, and Work Compensation. In 2016, A2Z became one of the largest insurers in Portugal. However, the lack of a data driven culture in the company ultimately led to poorly maintained databases over the years. A2Z is trying to make better use of the database it has regarding its customers. A2Z wants to start differentiating customers and developing more focused programs.
+
+An ABT (Analytic Based Table) with data regarding a sample of 10.290 Customers from its active database was provided by A2Z. Our job was to segment the database and find the relevant clusters of customers, as A2Z would like to understand the value and demographics of each customer segment, as well as understand which types of insurance they will be more interested in buying. 
